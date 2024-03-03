@@ -1,5 +1,6 @@
-# Guilloché Animator -- not maintained anymore
-Working fine but needing some improvement. If you want to contribute, it would be really great.
+# Guilloché Animator 
+
+Pre-notes: Feel free to contribute to the project.
 
 https://stabla.github.io/guillocheJS/
 
