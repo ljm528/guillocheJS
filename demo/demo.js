@@ -15,12 +15,12 @@ const guilloche = new GuillocheJS(container, {
     amplitude: 4.5,
     multiplier: 2,
   },
-  appearance: {
-    lineColor: '#000000',
-    backgroundColor: '#FFFFFF',
-    lineWidth: 0.5,
-    type: 'Hypotrochoid',
-  },
+ appearance: {
+  lineColor: '#1D4ED8',
+  backgroundColor: '#EFF6FF',
+  lineWidth: 1.2,
+  type: 'Epitrochoid',
+},
 });
 
 guilloche.clear();
